@@ -349,27 +349,27 @@ n: C'EST SUPER ÉFFICACE
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: See, human? I am your loyal guard-wolf!
+b: T'as vu, humain ? Je suis ton loyal loup-de-guarde !
 
 `bb({body:"pride_talk"});`
 
-b: Trust your gut! Your feelings are always valid!
+b: Fait confiance a ton intuition ! Tes sentiments sont toujours valides !
 
 `bb({body:"pride"});`
 
-n: GET YOUR HUMAN'S ENERGY BAR TO ZERO
+n: AMENEZ L'ENERGIE DE VOTRE HUMAIN À ZÈRO !
 
-n: TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:
+n: POUR PROTÉGER SES BESOINS PHYSIQUES + SOCIAUX + MORAUX, TU PEUX UTILISER :
 
-n: FEAR OF *BEING HARMED* #harm#
+n: LA PEUR D'*ÊTRE BLÉSSÉ* #harm#
 
-n: FEAR OF *BEING UNLOVED* #alone#
+n: LA PEUR DE *NE PAS ÊTRE AIMÉ* #alone#
 
-n: AND FEAR OF *BEING A BAD PERSON* #bad#
+n: LA PEUR D'*ÊTRE UNE MAUVAISE PERSONNE* #bad#
 
 `Game.OVERRIDE_TEXT_SPEED = 1.25;`
 
-n4: (PRO-TIP: PLAY THE CHOICES THAT PERSONALLY HIT YOUR DEEPEST, DARKEST FEARS!~)
+n4: (ASTUCE-DE-PRO: JOUE LES CHOIX QUI TAPENT PERSONNELEMENT DANS TES PEURS LES PLUS PROFONDES ET LES PLUS NOIRES !~)
 
 h: ...
 
@@ -383,18 +383,18 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-h: you know what maybe it's time to check my phone.
+h: tu sais quoi, peut-être c'est le moment de checker mon tel.
 
 ```
 sfx("rustle2");
 hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 ```
 
-n: PROTECT YOUR HUMAN
+n: PROTÉGE TON HUMAIN
 
-n: FROM THE WORLD. FROM OTHER PEOPLE. FROM THEMSELF.
+n: DU MONDE. DES AUTRES. DE LUI-MÊME.
 
-n: GOOD LUCK
+n: BONNE CHANCE
 
 (...500)
 
