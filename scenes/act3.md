@@ -23,7 +23,7 @@ publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",3]);
 ```
 
-h2: *Ah* ça cogne là où il faut.
+h2: *Ah* ça cogne la où il faut.
 
 ```
 publish("act3",["roofhunter",2]);
@@ -37,19 +37,19 @@ publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",6]);
 ```
 
-h2: Plus précisément, les endroits cognés sont mes amygdales gauche et droite.
+h2: Plus précisement, les endroits cognés sont mes amygdales gauche et droite.
 ```
 publish("act3",["roofhunter",8]);
 publish("act3",["roofhong",5]);
 ```
 
-r: Tu me rappelles moi quand j'étais plus jeune. A l'époque où j'étais tourmentée par l'animal dans ma tête.
+r: Tu me rappelle moi quand j'était plus jeune. A l'époque où j'étais tourmentée par l'animal dans ma tête.
 ```
 publish("act3",["roofhunter",9]);
 publish("act3",["roofhong",2]);
 ```
 
-r: Je suis si reconnaissante de pouvoir le transmettre, et t'aider à tuer ta bête comme j'ai tué la mienne.
+r: Je suis si reconnaissante de pouvoir le transmettre, et t'aider à tuer ta bête comme j'ai tuée la mienne.
 
 ```
 publish("act3",["roofhunter",2]);
@@ -105,14 +105,14 @@ h2: ...
 publish("act3",["roofhong",11]);
 ```
 
-h2: Attends, quoi ?
+h2: Attend, quoi ?
 
 ```
 publish("act3",["roofhong",10]);
 publish("act3",["roofhunter",2]);
 ```
 
-r: L'animal a commencé à gémir, n'est-ce pas ?
+r: L'animal à commencé à gémir, n'est-ce pas ?
 
 ```
 publish("act3",["roofhunter",23]);
@@ -130,14 +130,14 @@ r: Mais c'est exactement pour ça que nous avons besoin de défier la mort ! Par
 publish("act3",["roofhunter",10]);
 ```
 
-r: Montre à cet animal qu'on s'en bat les *^couilles^* de ses *^putain^* de râlements ! Saute.
+r: Montre à cet animal qu'on s'en bas les *^couilles^* de ses *^putain^* de râlements ! Saute.
 
 ```
 publish("act3",["roofhunter",11]);
 publish("act3",["roofhong",13]);
 ```
 
-h2: Euh, mais des fois, hum... la peur a raison...
+h2: Euh, mais des fois, hum... la peur à raison...
 
 ```
 publish("act3",["roofhunter",5]);
@@ -153,13 +153,13 @@ publish("act3",["roofhunter",6]);
 publish("act3",["dd",1]);
 ```
 
-r: Pardon, tu t'est fai avoir par cette mode McPleineconscience qui dit que se sentir mal c'est *bien?*
+r: Pardon, tu t'est fait avoir par cette mode McPleineconscience qui dit que se sentir mal c'est *bien?*
 
 ```
 publish("act3",["roofhunter",17]);
 ```
 
-r: Le plaisir c'est l'opposé de la douleur. En ^putain^ de conséquence, tu peux utiliser le plaisir pour combattre la douleur !
+r: Le plaisir c'est l'opposé de la douleur. En ^putain^ de conséquent, tu peux utiliser le plaisir pour combattre la douleur !
 
 ```
 publish("act3",["roofhunter",18]);
@@ -183,7 +183,7 @@ r: Ce n'est pas notre ami. C'est une bête enragée, qui doit soit être *tranqu
 publish("act3",["roofhunter",20]);
 ```
 
-r: Soit *se prendre une balle dans le crâne*.
+r: Ou *se prendre une balle dans le crâne*.
 
 ```
 publish("act3",["roofhunter",27]);
@@ -197,7 +197,7 @@ publish("act3",["roofhong",14]);
 publish("act3",["dd",2]);
 ```
 
-h2: Non, tu as tort.
+h2: Non, tu a tort.
 
 ```
 publish("act3",["roofhunter",13]);
@@ -216,7 +216,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Fuck^ yeah ! Je crois en toi, bébé ! Bute-la ! <3
+r: ^Fuck^ yeah ! Je crois en toi, bébé ! Bute la ! <3
 
 (#act3a)
 
@@ -243,7 +243,7 @@ n: CE CHAPITRE A DEUX FINS POSSIBLES. UNE DES DEUX EST *VRAIMENT, VRAIMENT GRAVE
 
 b: NON NON NON NON NON NON NON NON NON NON NON NON NON NON
 
-n: CHOISIS SAGEMENT. PROTÉGE TON HUMAIN
+n: CHOISIS SAGEMENT. PROTEGE TON HUMAIN
 
 `bb({ eyes:"oh_crap", mouth:"normal_talk", MOUTH_LOCK:true });`
 
@@ -351,9 +351,9 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: T'as déja essayé ça.
+h: T'a déja essayé ça.
 
-b: Humain, je t'en prie...
+b: humain, je t'en prie...
 
 `hong({ eyes:"look_right" });`
 
@@ -366,7 +366,7 @@ h: Regarde ^connard^, on a tous un moyen de te faire fermer ta *putain* de gueul
 h: Certains se lancent dans le travail à corps perdu.
 `hong({ body:"look_down", eyes:"look_down" });`
 
-h: Certains se lancent dans le sexe, la drogue, et le rafraichissement de leur fil d'actus Facebook.
+h: Certains se lancent dans le sexe, la drogue, et le rafraichissement de leur feed Facebook.
 
 `hong({ body:"normal", eyes:"look_right" });`
 
@@ -378,7 +378,7 @@ h: Je vais me lancer dans cette piscine.
 
 [Tu es bourré et c'est SIX ÉTAGES PLUS BAS](#act3_bad_1_harm)
 
-[Bon sang, c'est ça ,mes remerciements ?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
+[Bon sang, c'est ça mes remerciements ?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
 [Okay, je l'admet. J'ai merdé.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
@@ -402,7 +402,7 @@ hong({ body:"normal", mouth:"angry", eyes:"angry" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: J'ai vu un russe faire ça sur youtube une fois.
+h: J'ai vu un mec Russe faire ça sur youtube une fois.
 
 (#act3_bad_2)
 
@@ -410,13 +410,13 @@ h: J'ai vu un russe faire ça sur youtube une fois.
 
 `hong({ eyes:"look_right" });`
 
-h: Je- Excuse-moi, tes *remerciements ?*
+h: Je- Excuse moi, tes *remerciements ?*
 
 `bb({ eyes:"angry" });`
 
-b: C'est exactement pour ça que j'*existe !* Parce qu'on ne peut pas faire confiance aux humains pour se protéger d'eux-mêmes !
+b: C'est exactement pour ça que j'*existe !* Parce qu'on ne peut pas faire confiance aux humains pour se protéger d'eux-même !
 
-b: J'ai passé ma vie à essayer de protéger ton stupide derrière et maintenant tu vas just--
+b: J'ai passée ma vie à essayer de protéger ton stupide derrière et maintenant tu vas just--
 
 ```
 hong({body:"drink"});
@@ -438,11 +438,11 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 `hong({ body:"laugh_1" })``
 
-h: heh.
+h: Heh.
 
 `hong({ body:"laugh_2" })``
 
-h: hahahaha
+h: Hahahaha
 
 `hong({ body:"laugh_3" })``
 
@@ -453,21 +453,21 @@ bb({ eyes:"sorry"});
 hong({ body:"yell_1", mouth:"yell", eyes:"blank" });
 ```
 
-h: Oh WOW is that the biggest *^fuck^ing* understatement of the century!
+h: Oh WOW ! C'est le plus gros *^putain^* d'euphémisme du siècle !
 
 `hong({ body:"yell_2" });`
 
-h: Yeah, you rotting pile of blood-coated ^shit^! You messed the ^fuck^ up!
+h: Ouais, tas de ^merde^ ensanglanté ! T'as vraiment bien foiré !
 
 `hong({ body:"normal", mouth:"angry", eyes:"angry" });`
 
-h: Any other remarks, Captain Obvious?
+h: D'autres remarques, Captain Obvious ?
 
-[But revenge on me isn't the answer!](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[Mais te venger de moi n'est pas la réponse !](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[But this time I'm *actually* right!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[Mais cette fois, j'ai *vraiment* raison !](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[I've hurt you.](#act3_good_2a)
+[Je t'ai blessé.](#act3_good_2a)
 
 
 # act3_good_1_fail_revenge
